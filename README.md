@@ -28,6 +28,12 @@ To further improve the model, I tried adding some benchmarks, such as 'NIFTY'.
 ![image](https://github.com/user-attachments/assets/fdc99ef7-bd1f-49c7-ba87-ce68ab47d10a)
 This is nearly the same as the previous one, with no visible improvements.
 
+To conclude,
+> RNN: The performance of this model is primarily suited for medium-term stock purchases. According to the current analysis, it has the potential to perform even better with different optimizations or over a longer data range.
+> Linear Regression: Impressive short-term predictions, though its near-term focus raises uncertainty for long-term performance.
+> ARIMA: In ARIMA, you receive an interval within which the future value is expected to lie. This provides a general idea of how a stock might perform, although it doesn't give an exact value. For long-term investments, this can be very helpful.
+> Gradient Boosting: This model provides a reasonably good representation of stock performance for a medium time frame, but it does not offer optimal predictions for short time periods. It can be useful for predicting stocks a few days into the future.
+
 
 ## My Future Ideas on how to further develope on this:
 1) Check how the stock market is affected seasonally.
