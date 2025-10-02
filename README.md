@@ -90,7 +90,7 @@ Frontend runs at:
 
 ## 🎨 Frontend Preview
 
-![Frontend Screenshot](frontend_img.png)
+![Frontend Screenshot](imgs/frontend_img.png)
 
 ---
 
@@ -104,7 +104,7 @@ Frontend runs at:
 
 # 🧪 Testing Different Models for Stock Prediction
 
-In this project I've also tried implementing different **ML models and parameters** to predict stocks.  
+Implementing different **ML models** to predict stocks.  
 For this experiment, I used data from Yahoo Finance for **TATA MOTORS**.
 
 ## 📊 Results from `Stock_Prediction.ipynb`
