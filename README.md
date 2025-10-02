@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction & Visualization
+# 📈 FullStack StockVision – AI-powered full-stack stock prediction & visualization
 
 A simple end-to-end project combining **Data Science (Python, TensorFlow)**, **C++ (ONNX Runtime for inference)**, and a **React frontend**.
 
